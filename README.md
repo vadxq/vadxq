@@ -1,12 +1,4 @@
-### Hi there 👋
-
-Hi, I'm **vadxq**.
-
-![GitHub followers](https://img.shields.io/github/followers/vadxq?style=social)
-
----
-
-<!-- Here are some ideas to get you started: -->
+### Hi, I'm **vadxq**.👋 ![GitHub followers](https://img.shields.io/github/followers/vadxq?style=social)
 
 <!-- - 🏢  I’m currently working at  -->
 <!-- - 🌱 I use daily: -->
@@ -26,9 +18,13 @@ Hi, I'm **vadxq**.
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vadxq&show_icons=true&count_private=true)
+<div style="display: flex;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=vadxq&show_icons=true&count_private=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq)
+
+</div>
 
 <!-- #### Pinned
 

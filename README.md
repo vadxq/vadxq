@@ -5,10 +5,7 @@
 - 🚀 I’m currently learning Typescript & Framework Design.
 - 💻  I work using: ![](https://img.shields.io/badge/-JavaScript-yellow) ![](https://img.shields.io/badge/-React-blue) ![](https://img.shields.io/badge/-Vuejs-green)
 <!-- - 🌱 I’m currently learning Typescript & Framework Design. -->
-- 💬  My share to others:
-  - [清竹茶馆博客](https://blog.vadxq.com)
-  - [PPT分享小栈](https://ppt.vadxq.com)
-  - ![Twitter Follow](https://img.shields.io/twitter/follow/vadxq?style=social)
+- 💬  My share to others: [清竹茶馆博客](https://blog.vadxq.com) [PPT分享小栈](https://ppt.vadxq.com) ![Twitter Follow](https://img.shields.io/twitter/follow/vadxq?style=social)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -18,13 +15,9 @@
 
 ---
 
-<div style="display: flex;">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vadxq&show_icons=true&count_private=true)
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=vadxq&show_icons=true&count_private=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq&layout=compact)
 
 <!-- #### Pinned
 

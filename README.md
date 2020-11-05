@@ -13,9 +13,10 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-|||
-|---------|---|
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=vadxq&show_icons=true&count_private=true)       | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq&layout=compact)       |
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vadxq&show_icons=true&count_private=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq&layout=compact)
+---------|---
 
 <!-- #### Pinned
 

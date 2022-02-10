@@ -7,23 +7,17 @@
 
 ## About me
 
-`Front end little chicken`
-
-Although the entry front end has been around for so long, it has always been playing hard, which has led to the current situation.
-
-`Code little art`
-
-I like Chinese style and antiquity, like listening to songs, playing games, and occasionally writing poems, lyrics and stories
+Be a simple, low-key and romantic technical person
 
 ## Things I am passionate about
 
 - Typescript / JavaScript
 - Flutter / Dart
-- Nodejs
+- Nodejs / Rust (learning)
 - Vue / React
 - Vite / Webpack / Rollup
 - Framework Design / Open source
-- Mysql / MongoDB / Nginx / ACME
+- Nginx / Mysql / MongoDB / ACME
 
 ## Get in touch
 

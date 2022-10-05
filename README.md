@@ -11,8 +11,8 @@ Be a simple, low-key and romantic technical person
 
 ## Things I am passionate about
 
-- Typescript / JavaScript / Vite / Webpack / Rollup
-- Vue / React / Flutter
+- Typescript / JavaScript
+- Vue / React / Flutter / Vite / Webpack / Rollup
 - Nodejs / Rust (learning) / Mysql / MongoDB / Nginx
 - Web3 / XR
 - Framework Design / Open source

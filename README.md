@@ -11,18 +11,16 @@ Be a simple, low-key and romantic technical person
 
 ## Things I am passionate about
 
-- Typescript / JavaScript
-- Flutter / Dart
-- Nodejs / Rust (learning)
-- Vue / React
-- Vite / Webpack / Rollup
+- Typescript / JavaScript / Vite / Webpack / Rollup
+- Vue / React / Flutter
+- Nodejs / Rust (learning) / Mysql / MongoDB / Nginx
+- Web3 / XR
 - Framework Design / Open source
-- Nginx / Mysql / MongoDB / ACME
 
 ## Get in touch
 
-- Blog: [清竹茶馆博客](https://blog.vadxq.com)
-- PPTs: [PPT分享小栈](https://ppt.vadxq.com)
+- [Blog](https://blog.vadxq.com)
+- [PPT share](https://ppt.vadxq.com)
 
 ## Active on github
 

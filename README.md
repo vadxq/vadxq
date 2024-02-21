@@ -22,3 +22,10 @@ Be a simple, low-key and romantic technical person
 
 - [Blog](https://blog.vadxq.com)
 - [PPT share](https://ppt.vadxq.com)
+
+## Active on github
+
+<div style="display: flex;justify-content: space-between;flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vadxq&show_icons=true&count_private=true" style="width:53%;min-width:300px;margin-top:6px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq&layout=compact" style="width:45%;min-width:300px;margin-top:6px;">
+</div>

@@ -13,8 +13,8 @@ Be a simple, low-key and romantic technical person
 ## Things I am passionate about
 
 - Typescript / JavaScript
-- Vue / React / Flutter / Vite / Webpack / Rollup
-- Nodejs / Rust (learning) / Mysql / MongoDB / Nginx
+- Vue / React / Flutter / Vite / Tubo / ReactNative / Miniprogram
+- Nodejs / Python / Rust (learning) / Database / Nginx
 - Web3 / XR
 - Framework Design / Open source
 
@@ -60,5 +60,8 @@ Be a simple, low-key and romantic technical person
   </a>
   <a href="https://github.com/vadxq/generate-hd-wallet">
     <img align="center" alt="generate-hd-wallet" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=vadxq&repo=generate-hd-wallet" />
+  </a>
+  <a href="https://github.com/vadxq/react-native-starter">
+    <img align="center" alt="react-native-starter" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=vadxq&repo=react-native-starter" />
   </a>
 </div>

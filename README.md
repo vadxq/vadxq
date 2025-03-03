@@ -46,8 +46,8 @@ Be a simple, low-key and romantic technical person
   <a href="https://github.com/vadxq/vite-vue-prod-template">
     <img align="center" alt="vite-vue-prod-template" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=vadxq&repo=vite-vue-prod-template" />
   </a>
-  <a href="https://github.com/vadxq/nextjs-web3-starter">
-    <img align="center" alt="nextjs-web3-starter" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=vadxq&repo=nextjs-web3-starter" />
+  <a href="https://github.com/vadxq/nextjs-ai-starter">
+    <img align="center" alt="nextjs-ai-starter" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=vadxq&repo=nextjs-ai-starter" />
   </a>
   <a href="https://github.com/vadxq/nodeppt-set">
     <img align="center" alt="nodeppt-set" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=vadxq&repo=nodeppt-set" />

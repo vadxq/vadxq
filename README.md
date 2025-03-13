@@ -13,7 +13,7 @@ Be a simple, low-key and romantic technical person
 ## Things I am passionate about
 
 - Typescript / JavaScript
-- Vue / React / Flutter / Vite / Tubo / ReactNative / Miniprogram
+- Vue / React / Flutter / Vite / Turbo / ReactNative / Miniprogram
 - Nodejs / Python / Rust (learning) / Database / Nginx
 - Web3 / XR
 - Framework Design / Open source

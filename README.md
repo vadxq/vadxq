@@ -14,7 +14,7 @@ Be a simple, low-key and romantic technical person
 
 - Typescript / JavaScript
 - React / Vue / Vite / Turbo / React Native / Miniprogram / Flutter
-- Nodejs / Python / Golang (Learning) / Rust（Interesting） / Database / Nginx
+- Nodejs / Python / Golang / Database / Nginx
 - AI / Web3 / XR
 - Framework Design / Open source
 

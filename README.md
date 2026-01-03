@@ -30,7 +30,7 @@ Be a simple, low-key and romantic technical person
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadxq&layout=compact" style="width:45%;min-width:300px;margin-top:6px;">
 </div>
  -->
-
+<!-- 
 ## Pinned repositories
 
 <div>
@@ -60,3 +60,4 @@ Be a simple, low-key and romantic technical person
     <img align="center" alt="antfe" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=gentleman-org&repo=antfe" />
   </a>
 </div>
+ -->

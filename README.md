@@ -12,10 +12,10 @@ Be a simple, low-key and romantic technical person
 
 ## Things I am passionate about
 
-- Typescript / JavaScript
+- Typescript / JavaScript / Swift
 - React / Vue / Vite / Turbo / React Native / Miniprogram / Flutter
 - Nodejs / Python / Golang / Database / Nginx
-- AI / Web3 / XR
+- AI / XR / Rust in leaning
 - Framework Design / Open source
 
 ## Get in touch
